@@ -2,7 +2,6 @@
 # @Date 2/19/2019
 # CWID: 10434197
 import requests
-import json
 
 
 def get_repo(id):
